@@ -20,6 +20,6 @@ public class Buttons {
 	web.findElements(By.xpath("//input[@name='sample']")).size();
 	System.out.println(web.findElements(By.xpath("//input[@name='sample']")).size());
 	
-
+ /*This is a test.*/
 }
 }
